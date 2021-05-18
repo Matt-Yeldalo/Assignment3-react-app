@@ -1,0 +1,30 @@
+{
+  "food":[
+    {
+      "item": "Fries",
+      "price": 10
+    },
+    {
+      "item": "Tacos",
+      "price": 15
+    },
+    {
+      "item": "Hotdog",
+      "price": 15
+    }
+  ],
+  "drink":[
+    {
+      "item": "Coke",
+      "price": 6
+    },
+    {
+      "item": "Pepsi",
+      "price": 5
+    },
+    {
+      "item": "Sprite",
+      "price": 6
+    }
+  ]
+}
