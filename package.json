@@ -24,6 +24,5 @@
   },
   "devDependencies": {
     "@babel/core": "~7.9.0"
-  },
-  "private": true
+  }
 }
